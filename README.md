@@ -32,7 +32,7 @@
 ### Распределение CTR после проведения теста
 🔴 — control  
 🔵 — test  
-<img width="420" height="267" alt="image" src="https://github.com/user-attachments/assets/0f9c365d-e1f0-47df-8c25-6e89e189a7f7" />
+![Распределение CTR](<img width="420" height="267" alt="image" src="https://github.com/user-attachments/assets/0f9c365d-e1f0-47df-8c25-6e89e189a7f7" />)
 
 ### Наиболее наглядный метод (пуассоновский бутстреп)
-<img width="406" height="263" alt="image" src="https://github.com/user-attachments/assets/b261dfde-e42a-427c-be0f-a913fdf01aa4" />
+![Пуассоновский бутстреп](<img width="406" height="263" alt="image" src="https://github.com/user-attachments/assets/b261dfde-e42a-427c-be0f-a913fdf01aa4" />)
